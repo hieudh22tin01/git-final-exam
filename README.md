@@ -1,6 +1,6 @@
 ## Git Final Exam
-**Họ tên:** Nguyễn Văn A  
-**MSSV:** 123456  
+**Họ tên:** Trần Nguyễn Minh Hiếu  
+**MSSV:** 224200 
 **Ngày làm:** 28/10/2025  
 
 ### Mục tiêu
