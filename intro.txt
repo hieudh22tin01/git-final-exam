@@ -1,4 +1,4 @@
-Xin chào, tôi là Trần Nguyễn Minh Hiếu
+Hello, this is Trần Nguyễn Minh Hiếu
 Tôi đang học tại trường Đại học Nam Cần Thơ
 Tôi thích học công nghệ
 Tôi muốn trở thành lập trình viên giỏi
