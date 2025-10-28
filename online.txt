@@ -1,3 +1,5 @@
 Tệp này được tạo trực tiếp trên GitHub.
 Tôi đang làm bài kiểm tra Git.
 Đây là phần thực hành tạo file online.
+Dòng 4
+Dòng 5
