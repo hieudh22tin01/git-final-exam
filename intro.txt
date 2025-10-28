@@ -4,3 +4,10 @@ Tôi thích học công nghệ
 Tôi muốn trở thành lập trình viên giỏi
 Sở thích: đọc sách, nghe nhạc, đi du lịch
 Kỹ năng: HTML, CSS, JavaScript
+
+Kế hoạch học tập:
+- Ôn lại Git mỗi ngày
+- Thực hành commit và branch
+- Làm bài tập thực hành đầy đủ
+- Học React và Node.js
+- Viết note về các lệnh Git
