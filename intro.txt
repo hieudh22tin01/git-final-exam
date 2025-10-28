@@ -11,3 +11,4 @@ Kế hoạch học tập:
 - Làm bài tập thực hành đầy đủ
 - Học React và Node.js
 - Viết note về các lệnh Git
+Conflict resolved on 28/10/2025
