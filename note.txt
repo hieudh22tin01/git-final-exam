@@ -1,5 +1,3 @@
 - Git rất mạnh mẽ
 - Giúp theo dõi thay đổi
 - Hỗ trợ teamwork hiệu quả
-- Dễ học
-- Ứng dụng rộng rãi
