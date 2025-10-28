@@ -8,6 +8,11 @@
 - Ngày 7: Nghỉ và tổng kết
 Bắt đầu: 28/10/2025
 Kết thúc: 03/11/2025
+<<<<<<< Updated upstream
 - Ôn lại lệnh git revert
 - Làm bài tập nâng cao
 - Viết blog ghi chú
+=======
+- Chuẩn bị kiểm tra cuối kỳ
+- Hoàn thiện báo cáo
+>>>>>>> Stashed changes
