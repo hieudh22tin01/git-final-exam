@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý người dùng
+- Thêm người dùng
+- Sửa người dùng
+- Xóa người dùng
+- Xem danh sách người dùng
+- Tìm kiếm người dùng
